@@ -39,3 +39,15 @@ SCREEN SHOTS AND SAMPLE_OUTPUT
 https://github.com/iamtheray71/CodeClause_UnitConvertor/assets/121150577/8ea794ad-9e46-4f7d-8146-48b9f01c7da3
 
 
+
+
+
+
+
+
+
+
+![sample](https://github.com/iamtheray71/CodeClause_UnitConvertor/assets/121150577/3fe6fc37-fd30-49de-83c4-dbbab61b96ca)
+
+
+
